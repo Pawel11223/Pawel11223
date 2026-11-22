@@ -1,5 +1,5 @@
 # 💫 About Me:
-Creator of LibreHaptics and TrueShifter. <br>Building open-source haptic ecosystems, <br>cross-platform Avalonia/.NET tools, and VR game haptics mods.
+Creator of [LibreHaptics](https://github.com/LibreHaptics) and TrueShifter. <br>Building open-source haptic ecosystems, <br>cross-platform Avalonia/.NET tools, and VR game haptics mods.
 
 
 ## 🌐 Socials:
